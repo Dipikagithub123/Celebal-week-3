@@ -21,7 +21,9 @@ It features a simple Node.js backend and a dynamic, interactive frontend to show
 Here's what the application looks like in action.
 
 *The main interface with a smooth, animated gradient background.*
-![Application Screenshot](./screenshots/screenshot.png)
+![Application Screenshot](./screenshot1.png)
+![Application Screenshot](./screenshot2.png)
+![Application Screenshot](./screenshot3.png)
 
 ---
 
