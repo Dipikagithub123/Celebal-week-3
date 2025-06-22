@@ -37,12 +37,12 @@ You must have [Node.js](https://nodejs.org/) installed on your machine (which in
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Dipikagithub123/Celebal-week-3.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repository-name
+    cd Celebal-week-3
     ```
 
 3.  **Start the server:**
